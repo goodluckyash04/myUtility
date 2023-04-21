@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## About The Project
+this is an react project with the different functoinality as password generator, todo list, quiz. search functionality.
+
 ### `npm start`
 
 Runs the app in the development mode.\
